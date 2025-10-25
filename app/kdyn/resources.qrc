@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/kdyn">
+    <file alias="icon.png">../build/icon.png</file>
+  </qresource>
+</RCC>
